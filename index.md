@@ -1,7 +1,5 @@
 [HOME](.) | [LOG](TXT/mylog.txt)
 
-# Hai
+# Hello
 
-## almira
-
-Checkout my top 10 links every week:
+## My name is almira eka putri maharani
