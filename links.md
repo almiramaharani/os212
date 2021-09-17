@@ -19,4 +19,9 @@ This article explains what VirtualBox is and a brief history of VirtualBox. I th
 
 ## Week 02
 
-1. 
+1. [Why is Cybersecurity Important?](https://www.upguard.com/blog/cybersecurity-important)<br>
+This article explains what cybersecurity is and why cybersecurity is important. Most of us only hear the term cybersecurity without knowing what it means. Therefore, I recommend this link for those of you who want to start learning what cybersecurity is.
+
+2. [Introduction to cryptography](https://www.synopsys.com/glossary/what-is-cryptography.html)<br>
+This week we are introduced to cryptography. Therefore, I recommend you to read this article to find out more about the explanation of cryptography and how it works. 
+
