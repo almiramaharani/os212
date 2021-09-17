@@ -11,4 +11,10 @@ ZCZC W01 15 L22 Quiz Week 00
 ZCZC W01 100 L02 Weekly lecture Zoom meeting
 ZCZC W01 15 L21 installing VirtualBox
 ZCZC W01 300 L11 Do assignment #01
+ZCZC W02 30 L22 Quiz Week 01
+ZCZC W02 100 L02 Weekly lecture zoom meeting
+ZCZC W02 60 L11 Do assignment week 2
+ZCZC W02 30 L11 Update my assignment and log
+ZCZC W02 30 L06 GSGS about cybersecurity
+
 
