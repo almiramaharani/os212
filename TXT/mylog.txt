@@ -16,5 +16,9 @@ ZCZC W02 100 L02 Weekly lecture zoom meeting
 ZCZC W02 60 L11 Do assignment week 2
 ZCZC W02 30 L11 Update my assignment and log
 ZCZC W02 30 L06 GSGS about cybersecurity
-
+ZCZC W03 30 L22 Quiz Week 02
+ZCZC W03 100 L02 Weekly lecture zoom meeting
+ZCZC W03 60 L09 Do assignment week 3
+ZCZC W03 20 L01 answering forum week 3
+ 
 
