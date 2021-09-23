@@ -25,3 +25,11 @@ This article explains what cybersecurity is and why cybersecurity is important. 
 2. [Introduction to cryptography](https://www.synopsys.com/glossary/what-is-cryptography.html)<br>
 This week we are introduced to cryptography. Therefore, I recommend you to read this article to find out more about the explanation of cryptography and how it works. 
 
+## Week 03
+
+1. [Linux File Hierarchy Structure](https://www.geeksforgeeks.org/linux-file-hierarchy-structure/)<br>
+This articles explains about filesystem hierarchy standard which is defines the directory structure and directory contents in Unix-like operating systems. In my opinion, this article is very useful for beginners because the explanation is equipped with pictures.
+
+2. [File System Mounting](https://youtu.be/A8ITr5ZpzvA)<br>
+This time I recommend a video that explains about file system mounting. On Linux, we have to mount hard disk partitions before you can use them. It is pretty easy since this video explains it thoroughly and clearly.
+
