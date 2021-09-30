@@ -33,3 +33,16 @@ This articles explains about filesystem hierarchy standard which is defines the 
 2. [File System Mounting](https://youtu.be/A8ITr5ZpzvA)<br>
 This time I recommend a video that explains about file system mounting. On Linux, we have to mount hard disk partitions before you can use them. It is pretty easy since this video explains it thoroughly and clearly.
 
+## Week 04
+
+1. [Big Endian vs Little Endian](https://www.freecodecamp.org/news/what-is-endianness-big-endian-vs-little-endian/)<br>
+This article is very helpful for those of you who want to know the difference between big endian and little endian. This article explains the meaning of each endianness and provides examples
+
+2. [Pointers in C Language](https://www.tutorialspoint.com/cprogramming/c_pointers.htm)<br>
+This article contains a description of pointers in the C language and examples of their implementation.
+
+3. [Parameter Passing Techniques in C](https://www.geeksforgeeks.org/parameter-passing-techniques-in-c-cpp/)<br>
+In this article it is explained that there are many methods or techniques to perform parameter passing in the C language, including pass by parameter and pass by value. This page also provides examples of using each method so that readers can better understand the differences between each of the techniques.
+
+4. [Memory Management in OS](https://www.guru99.com/os-memory-management.html)<br>
+This article contains a complete explanation of memory management and provides clear examples. There are several memory management techniques, as you can see in the article.

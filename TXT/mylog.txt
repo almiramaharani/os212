@@ -20,5 +20,12 @@ ZCZC W03 30 L22 Quiz Week 02
 ZCZC W03 100 L02 Weekly lecture zoom meeting
 ZCZC W03 60 L09 Do assignment week 3
 ZCZC W03 20 L01 answering forum week 3
+ZCZC W04 20 L05 Study for quiz
+ZCZC W04 20 L22 Quiz Week 04
+ZCZC W04 100 L02 Weekly lecture Zoom meeting
+ZCZC W04 60 L09 Do assignment week 4
+ZCZC W04 20 L04 Github Pages related
+ZCZC W04 30 L06 GSGS Links for week 4
+ZCZC W04 15 L01 Answering OS Forum
  
 
