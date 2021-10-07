@@ -46,3 +46,14 @@ In this article it is explained that there are many methods or techniques to per
 
 4. [Memory Management in OS](https://www.guru99.com/os-memory-management.html)<br>
 This article contains a complete explanation of memory management and provides clear examples. There are several memory management techniques, as you can see in the article.
+
+## Week 05
+
+1. [An Introduction to Virtual Memory](https://www.internalpointers.com/post/introduction-virtual-memory)<br>
+In week 5 we learn about virtual memory. This article will be very helpful for those of us who want to know in advance what virtual memory is. This article explains the use of virtual memory, where all virtual memory comes from, and how virtual memory is in Nutshell.
+
+2. [About Memory Allocation](https://binaryterms.com/static-and-dynamic-memory-allocation.html)<br>
+This article describes memory allocation. In my opinion, this article provides a detailed explanation. Starting from a discussion of what memory allocation is, the various types of memory allocation, and the use of each type of memory allocation.
+
+3. [How to Handle Trashing?](https://www.geeksforgeeks.org/techniques-to-handle-thrashing/)<br>
+This article describes the techniques that can be used for handling trashing. There are two techniques for handling trashing. Of course, each technique has its uses and is used in different cases.

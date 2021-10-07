@@ -27,5 +27,10 @@ ZCZC W04 60 L09 Do assignment week 4
 ZCZC W04 20 L04 Github Pages related
 ZCZC W04 30 L06 GSGS Links for week 4
 ZCZC W04 15 L01 Answering OS Forum
- 
+ZCZC W05 15 L05 Study for quiz
+ZCZC W05 20 L22 Quiz Week 05
+ZCZC W05 100 L02 Weekly lecture Zoom meeting
+ZCZC W05 90 L09 Do assignment week 5
+ZCZC W05 30 L04 GSGS articles for links week 4
+ZCZC W05 15 L01 Answering OS Forum 
 
