@@ -57,3 +57,11 @@ This article describes memory allocation. In my opinion, this article provides a
 
 3. [How to Handle Trashing?](https://www.geeksforgeeks.org/techniques-to-handle-thrashing/)<br>
 This article describes the techniques that can be used for handling trashing. There are two techniques for handling trashing. Of course, each technique has its uses and is used in different cases.
+
+## Week 06
+
+1. [Concept of Multithreading in OS](https://afteracademy.com/blog/what-is-the-concept-of-multithreading-in-os-and-what-are-its-benefits)<br>
+Multithreading is a threading method that is quite commonly applied in Operating Systems. This article explains the concept of multithreading on the OS in great detail and I think it's easy for beginners to understand.
+
+2. [fork() and exec() System Calls](https://www.youtube.com/watch?v=IFEFVXvjiHY)<br>
+This week we are studying fork and exec material, so this video is perfect for those of us who want to learn more about it.
