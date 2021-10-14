@@ -31,6 +31,12 @@ ZCZC W05 15 L05 Study for quiz
 ZCZC W05 20 L22 Quiz Week 05
 ZCZC W05 100 L02 Weekly lecture Zoom meeting
 ZCZC W05 90 L09 Do assignment week 5
-ZCZC W05 30 L04 GSGS articles for links week 4
+ZCZC W05 30 L04 GSGS articles for links week 5
 ZCZC W05 15 L01 Answering OS Forum 
+ZCZC W06 15 L05 Study for quiz
+ZCZC W06 20 L22 Quiz Week 06
+ZCZC W06 100 L02 Weekly Lecture Zoom Meeting
+ZCZC W06 45 L04 GSGS Articles for links week 6
+ZCZC W06 60 L09 Do assignment week 6
+ZCZC W06 60 L64 Helping OS related problem to a friend
 
