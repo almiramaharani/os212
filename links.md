@@ -65,3 +65,11 @@ Multithreading is a threading method that is quite commonly applied in Operating
 
 2. [fork() and exec() System Calls](https://www.youtube.com/watch?v=IFEFVXvjiHY)<br>
 This week we are studying fork and exec material, so this video is perfect for those of us who want to learn more about it.
+
+## Week 07
+
+1. [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)<br>
+This site describes an introduction to deadlocks in operating systems. This site provides a lot of additional knowledge related to deadlocks on operating systems such as conditions 4 deadlock conditions and how to overcome deadlocks themselves.
+
+2. [Semaphores in C language](https://www.geeksforgeeks.org/use-posix-semaphores-c/)<br>
+On this site there is an introduction to semaphore in C language and explained that semaphore is very useful in synchronization and multithreading processes. There are also usage examples on this site which will help readers to better understand semaphore in C.
