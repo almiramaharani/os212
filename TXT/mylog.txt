@@ -50,6 +50,5 @@ ZCZC W08 20 L05 Study for quiz
 ZCZC W08 20 L22 Quiz week 07
 ZCZC W08 100 L02 Weekly Lecture Zoom Meeting
 ZCZC W08 45 L06 GSGS Articles for links week 8
-ZCZC W08 480 L09 Do assignment week 8
+ZCZC W08 600 L09 Do assignment week 8
 ZCZC W08 180 L64 Helping OS related problem to a friend
-ZCZC W08 60 L09 Do assignment week 7
