@@ -73,3 +73,14 @@ This site describes an introduction to deadlocks in operating systems. This site
 
 2. [Semaphores in C language](https://www.geeksforgeeks.org/use-posix-semaphores-c/)<br>
 On this site there is an introduction to semaphore in C language and explained that semaphore is very useful in synchronization and multithreading processes. There are also usage examples on this site which will help readers to better understand semaphore in C.
+
+## Week 08
+
+1. [Process Scheduling in Operating System](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm)<br>
+On this site, scheduling is introduced to the operating system. Scheduling in the operating system is the activity of managing an ongoing process from a CPU. For further explanation, this site provides a lot of additional knowledge regarding scheduling on operating systems such as 3 types of scheduler and comparison between them. I suggest this site because they have very good explanation and easy to understand for everyone.
+
+2. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/)<br>
+On this page the definition of LFS is explained. Since for the next few weeks we will be dealing with LFS, this page will be suitable as our introduction to getting to know Linux from scratch.
+
+3. [Multiple-Processor Scheduling in Operating System](https://www.geeksforgeeks.org/multiple-processor-scheduling-in-operating-system/)<br>
+This site explains the use of multi-processor scheduling in operating systems. This page says there are several approaches to multi-processor scheduling. This site is very interesting to read because it has very good explanations.
