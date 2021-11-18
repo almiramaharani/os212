@@ -84,3 +84,12 @@ On this page the definition of LFS is explained. Since for the next few weeks we
 
 3. [Multiple-Processor Scheduling in Operating System](https://www.geeksforgeeks.org/multiple-processor-scheduling-in-operating-system/)<br>
 This site explains the use of multi-processor scheduling in operating systems. This page says there are several approaches to multi-processor scheduling. This site is very interesting to read because it has very good explanations.
+
+## Week 09
+
+1. [Mass-Storage Structure](https://youtu.be/tHf5VENlHF0)<br>
+In this video there is an introduction to Mass storage on an operating system with good visuals and explains about Mass Storage Structure, File System Implementation, File System Interface, and many more. The explanation in this video is very clear and very good, so I highly recommend you to watch this video.
+
+2. [Definition of RAID](https://techterms.com/definition/raid)<br>
+RAID is a method for storing data on multiple hard disks. When the Disks are stacked in a RAID configuration, the computer will see them all as one large disk. However, they operate much more efficiently than a single hard drive. Because data is spread across multiple disks, read and write operations can be performed on multiple disks at the same time. Which means, it can significantly speed up hard drive access times.
+
