@@ -5,7 +5,7 @@
 
 REC2="almira.eka@ui.ac.id"
 REC1="operatingsystems@vlsm.org"
-FILES="my*.txt my*.sh"
+FILES="my*.asc my*.txt my*.sh"
 SHA="SHA256SUM"
 
 [ -d $HOME/RESULT/ ] || mkdir -p $HOME/RESULT/
